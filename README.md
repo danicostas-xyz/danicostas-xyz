@@ -15,6 +15,6 @@ I'm a 27-year-old web development student based in Madrid. Currently diving into
 
 ## Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/dani-costas/) to chat about web development, emerging technologies, and exciting collaborations!
-You can visit my site too! [danicostas.xyz](https://danicostas-xyz.github.io/)
+You can visit my site too! [danicostas.xyz](https://danicostas-xyz.github.io/).
 
 
