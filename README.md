@@ -1,4 +1,4 @@
-# Hello! 👋 I'm [Dani Costas]
+# Hello! 👋 I'm Dani Costas
 
 ## About Me
 I'm a 27-year-old web development student based in Madrid. Currently diving into the world of Java and exploring various technologies to broaden my skill set.
