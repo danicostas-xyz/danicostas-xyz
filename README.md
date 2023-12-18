@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello! 👋 I'm [Dani Costas]
 
-<!--
-**danicostas-xyz/danicostas-xyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a 27-year-old web development student based in Madrid. Currently diving into the world of Java and exploring various technologies to broaden my skill set.
 
-Here are some ideas to get you started:
+## My Technologies
+- 💻 Java (actively learning)
+- 🌐 HTML, CSS, JavaScript
+- 🛢️ Databases: SQL
+- 🦀 Rust & Python (next on my learning list)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [Portfolio](https://github.com/danicostas-xyz/danicostas-xyz.github.io)
+- [Advent Of Code](https://github.com/danicostas-xyz/adventOfCode)
+
+## Contact
+Connect with me on [LinkedIn](https://www.linkedin.com/in/dani-costas/) to chat about web development, emerging technologies, and exciting collaborations!
+
+
