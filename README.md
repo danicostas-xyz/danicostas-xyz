@@ -4,11 +4,11 @@
 I'm a 28-year-old cross-platform application development student based in Madrid. Currently diving into the world of Java and exploring various technologies to broaden my skill set.
 
 ## My Technologies
-- 💻 Java (actively learning)
+- 💻 Java, Kotlin and Android (actively learning)
 - 🌐 HTML, CSS, JavaScript
 - 🧩 XML, JSON, DTD, XSD
 - 🛢️ Databases: SQL
-- 🦀 Rust & Python (next on my learning list)
+- 🦀 Python & React (next on my learning list)
 
 ## Featured Projects
 - [Portfolio](https://github.com/danicostas-xyz/danicostas-xyz.github.io)
