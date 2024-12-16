@@ -12,7 +12,7 @@ I'm a 28-year-old software development student based in Madrid. Currently diving
 
 ## Featured Projects
 - [Pokémon Trainer Card (HTML & CSS)](https://danicostas-xyz.github.io/pkmn-trainer-card)
-- [Portfolio](https://github.com/danicostas-xyz/danicostas-xyz.github.io)
+- [Portfolio](https://danicostas-xyz.github.io)
 - [Advent Of Code](https://github.com/danicostas-xyz/adventOfCode)
 
 ## Contact
