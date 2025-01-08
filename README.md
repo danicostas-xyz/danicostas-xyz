@@ -1,7 +1,7 @@
 # Hello! ✨ I'm Dani Costas ✨
 
 ## About Me
-I'm a 28-year-old software development student based in Madrid. Currently diving into the world of Java and exploring various technologies to broaden my skill set.
+I'm a 29-year-old software development student based in Madrid. Currently diving into the world of Java and exploring various technologies to broaden my skill set.
 
 ## My Technologies
 - 💻 Java, Kotlin and Android (actively learning)
