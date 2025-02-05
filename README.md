@@ -5,34 +5,33 @@ I'm a 29-year-old software development student based in Madrid. Currently diving
 
 ## 🚀 My Technologies
 
-###📱 Mobile Development
+##📱 Mobile Development
 
--💻 Java, Kotlin & Android (actively learning)
--🛠️ Jetpack Compose & XML (UI development)
-
-
-###🌍 Backend & Web
-
--⚡ Spring Framework & Spring Web (REST)
-
--🧪 Testing with JUnit
+💻 Java, Kotlin & Android (actively learning)
+🛠️ Jetpack Compose & XML (UI development)
 
 
-###🎨 Frontend & UI Design
+##🌍 Backend & Web
 
--🌐 HTML, CSS, JavaScript, React & React Native
--🎨 UI/UX with Figma
-
-
-###📡 Data & APIs
-
--🧩 XML, JSON, DTD, XSD
--🛢️ SQL & NoSQL (Firebase)
+⚡ Spring Framework & Spring Web (REST)
+🧪 Testing with JUnit
 
 
-###🔜 Next on my learning list
+##🎨 Frontend & UI Design
 
--🦀 Python
+🌐 HTML, CSS, JavaScript, React & React Native
+🎨 UI/UX with Figma
+
+
+##📡 Data & APIs
+
+🧩 XML, JSON, DTD, XSD
+🛢️ SQL & NoSQL (Firebase)
+
+
+##🔜 Next on my learning list
+
+🦀 Python
 
 ## Featured Projects
 - [Pokémon Trainer Card (HTML & CSS)](https://danicostas-xyz.github.io/pkmn-trainer-card)
