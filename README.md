@@ -7,7 +7,7 @@ I'm a 29-year-old software development student based in Madrid. Currently diving
 
 ### 📱 Mobile Development  
 - 💻 **Java, Kotlin & Android** *(actively learning)*  
-- 🛠️ **Jetpack Compose & XML** *(UI development)*  
+- 🛠️ **XML** *(UI development)*  
 
 ### 🌍 Backend & Web  
 - ⚡ **Spring Framework & Spring Web (REST)**  
@@ -25,13 +25,13 @@ I'm a 29-year-old software development student based in Madrid. Currently diving
 - 🦀 **Python**
 
 ## Featured Projects
+- (In Progress) [Filmbook (DAM Final Project. Android social network for movies and series, featuring user lists, reviews, ratings, and Firebase integration)](https://github.com/danicostas-xyz/filmbook)
 - [Pokémon Trainer Card (HTML & CSS)](https://danicostas-xyz.github.io/pkmn-trainer-card)
-- [Portfolio](https://danicostas-xyz.github.io)
+- [FilmApp (Sockets, multithreading, and data access using JDBC for communication and storage)](https://github.com/danicostas-xyz/2dam-filmapp-server-client-threads-bbdd-activity)
 - [Advent Of Code](https://github.com/danicostas-xyz/adventOfCode)
 
 ## Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/dani-costas/) to chat about web development, emerging technologies, and exciting collaborations!
-You can visit my site too! [danicostas.xyz](https://danicostas-xyz.github.io/).
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=danicostas-xyz&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
