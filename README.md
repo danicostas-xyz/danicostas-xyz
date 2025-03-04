@@ -26,6 +26,7 @@ I'm a 29-year-old software development student based in Madrid. Currently diving
 
 ## Featured Projects
 - (In Progress) [Filmbook (DAM Final Project. Android social network for movies and series, featuring user lists, reviews, ratings, and Firebase integration)](https://github.com/danicostas-xyz/filmbook)
+- [Piano App (React)](https://github.com/danicostas-xyz/pianoapp-react)
 - [Pokémon Trainer Card (HTML & CSS)](https://danicostas-xyz.github.io/pkmn-trainer-card)
 - [FilmApp (Sockets, multithreading, and data access using JDBC for communication and storage)](https://github.com/danicostas-xyz/2dam-filmapp-server-client-threads-bbdd-activity)
 - [Advent Of Code](https://github.com/danicostas-xyz/adventOfCode)
