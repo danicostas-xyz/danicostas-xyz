@@ -1,7 +1,7 @@
 # Hello! ✨ I'm Dani Costas ✨
 
 ## About Me
-I'm a 29-year-old software development student based in Madrid. Currently diving into the world of Java and exploring various technologies to broaden my skill set.
+I am a 29-year-old software development student based in Madrid. Currently, I am interning as a trainee developer at Pinout Solutions, working with the Zoho Platform.
 
 ## 🚀 My Technologies  
 
