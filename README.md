@@ -26,7 +26,6 @@ Currently working at Pinout Solutions, a Zoho Partner company, where I develop s
 
 ## Featured Projects
 - [Filmbook (DAM Final Project. Android social network for movies and series, featuring user lists, reviews, ratings, and Firebase integration)](https://github.com/danicostas-xyz/filmbook)
-<!--- (In Progress) [Billing Maker (React)](https://github.com/danicostas-xyz/billing-maker-react) -->
 - [Piano App (React)](https://github.com/danicostas-xyz/pianoapp-react)
 - [Pokémon Trainer Card (HTML & CSS)](https://danicostas-xyz.github.io/pkmn-trainer-card)
 - [FilmApp (Sockets, multithreading, and data access using JDBC for communication and storage)](https://github.com/danicostas-xyz/2dam-filmapp-server-client-threads-bbdd-activity)
