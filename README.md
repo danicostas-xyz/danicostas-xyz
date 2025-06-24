@@ -1,7 +1,7 @@
 # Hello! ✨ I'm Dani Costas ✨
 
 ## About Me
-I am a 29-year-old software development student based in Madrid. Currently, I am interning as a trainee developer at Pinout Solutions, working with the Zoho Platform.
+Currently working at Pinout Solutions, a Zoho Partner company, where I develop solutions using the Zoho ecosystem (Creator, Deluge, Desk APIs, and more).
 
 ## 🚀 My Technologies  
 
@@ -25,8 +25,8 @@ I am a 29-year-old software development student based in Madrid. Currently, I am
 - 🦀 **Python**
 
 ## Featured Projects
-- (In Progress) [Filmbook (DAM Final Project. Android social network for movies and series, featuring user lists, reviews, ratings, and Firebase integration)](https://github.com/danicostas-xyz/filmbook)
-- (In Progress) [Billing Maker (React)](https://github.com/danicostas-xyz/billing-maker-react)
+- [Filmbook (DAM Final Project. Android social network for movies and series, featuring user lists, reviews, ratings, and Firebase integration)](https://github.com/danicostas-xyz/filmbook)
+<!--- (In Progress) [Billing Maker (React)](https://github.com/danicostas-xyz/billing-maker-react) -->
 - [Piano App (React)](https://github.com/danicostas-xyz/pianoapp-react)
 - [Pokémon Trainer Card (HTML & CSS)](https://danicostas-xyz.github.io/pkmn-trainer-card)
 - [FilmApp (Sockets, multithreading, and data access using JDBC for communication and storage)](https://github.com/danicostas-xyz/2dam-filmapp-server-client-threads-bbdd-activity)
